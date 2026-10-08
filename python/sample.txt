@@ -1,0 +1,2 @@
+Python is used in AI engineering.
+I am learning Python for AI.
